@@ -1,0 +1,1 @@
+Standardization (or Z-score normalization) is the process where the features are rescaled so that they’ll have the properties of a standard normal distribution with µ=0 and s=1, where µ is the mean (average) and s is the standard deviation from the mean. Standard scores (also called z scores) of the samples are calculated as follows : 
